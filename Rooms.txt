@@ -1,0 +1,10 @@
+123 N/A D
+485 Available D
+587 N/A D
+875 Closed D
+951 N/A D
+456 N/A D
+672 Closed K
+678 N/A K
+541 N/A K
+901 Available K
